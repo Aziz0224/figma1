@@ -1,0 +1,387 @@
+/* screen - recette-2 */
+
+.recette-2 {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 1121px;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.recette-2 .group-134 {
+  align-items: flex-start;
+  display: flex;
+  margin-right: 2.0px;
+  min-width: 1440px;
+}
+
+.recette-2 .group-138 {
+  align-items: center;
+  background-color: var(--daintree);
+  display: flex;
+  min-width: 1440px;
+  padding: 0 1px;
+}
+
+.recette-2 .rectangle-29 {
+  height: 104px;
+  object-fit: cover;
+  width: 137px;
+}
+
+.recette-2 .accueil {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 2.0px;
+  margin-left: 433px;
+  min-height: 24px;
+  min-width: 86px;
+  white-space: nowrap;
+}
+
+.recette-2 .recettes {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 2.0px;
+  margin-left: 44px;
+  min-height: 24px;
+  min-width: 102px;
+  white-space: nowrap;
+}
+
+.recette-2 .bibliothque {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 2.0px;
+  margin-left: 37px;
+  min-height: 24px;
+  min-width: 145px;
+  white-space: nowrap;
+}
+
+.recette-2 .astuces {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 2.0px;
+  margin-left: 34px;
+  min-height: 24px;
+  min-width: 94px;
+  white-space: nowrap;
+}
+
+.recette-2 .group-129 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  margin-left: 58px;
+  margin-top: 1.0px;
+  min-width: 99px;
+}
+
+.recette-2 .overlap-group-1 {
+  align-items: flex-start;
+  background-color: var(--buff);
+  border: 1px solid;
+  border-color: var(--supernova);
+  border-radius: 10px;
+  display: flex;
+  height: 41px;
+  min-width: 97px;
+  padding: 11px 14px;
+}
+
+.recette-2 .sidentifier {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 18px;
+  white-space: nowrap;
+}
+
+.recette-2 .overlap-group1 {
+  align-items: flex-start;
+  background-color: var(--daintree);
+  border: 1px solid;
+  border-color: var(--buff);
+  border-radius: 10px;
+  display: flex;
+  height: 41px;
+  margin-left: 40px;
+  margin-top: 1.0px;
+  min-width: 97px;
+  padding: 10px 14px;
+}
+
+.recette-2 .sinscrire {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 18px;
+  white-space: nowrap;
+}
+
+.recette-2 .group-144 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 1.0px;
+  margin-top: 31px;
+  min-width: 365px;
+}
+
+.recette-2 .overlap-group4 {
+  align-items: flex-start;
+  background-color: var(--daintree);
+  display: flex;
+  height: 92px;
+  min-width: 363px;
+  padding: 22px 102px;
+}
+
+.recette-2 .title {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 47px;
+  white-space: nowrap;
+  font-size: 45px;
+  color: aliceblue;
+}
+
+.recette-2 .frame-1 {
+  margin-top: 29px;
+}
+
+.recette-2 .group-13 {
+  height: 330px;
+  min-width: 320px;
+  position: relative;
+}
+
+.recette-2 .overlap-group {
+  height: 330px;
+  position: relative;
+  width: 316px;
+}
+
+.recette-2 .rectangle-31 {
+  background-color: var(--white);
+  border-radius: 10px;
+  height: 329px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 316px;
+}
+
+.recette-2 .mbakhalou-saloum {
+  left: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 203px;
+  white-space: nowrap;
+}
+
+.recette-2 .recette-originale-du {
+  left: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 239px;
+  width: 255px;
+}
+
+.recette-2 .rectangle-32 {
+  height: 192px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 316px;
+}
+
+.recette-2 .thieboudieune {
+  left: 43px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 203px;
+  white-space: nowrap;
+}
+
+.recette-2 .thiboudieune-bou-w {
+  left: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 239px;
+  width: 255px;
+}
+
+.recette-2 .thiere-ak-mboum {
+  left: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 203px;
+  white-space: nowrap;
+}
+
+.recette-2 .thir-ak-mboum-cou {
+  left: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 239px;
+  width: 255px;
+}
+
+.recette-2 .group-133 {
+  height: 330px;
+  margin-right: -4.00px;
+  min-width: 320px;
+  position: relative;
+}
+
+.recette-2 .croquettes-de-pommes-de-terre {
+  left: 42px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 203px;
+  white-space: nowrap;
+  width: 232px;
+}
+
+.recette-2 .croquettes-de-pommes {
+  left: 35px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 239px;
+  width: 255px;
+}
+
+.recette-2 .frame-2 {
+  margin-top: 53px;
+}
+
+.recette-2 .soupe-kandia {
+  left: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 203px;
+  white-space: nowrap;
+}
+
+.recette-2 .soupe-kandia-sauce {
+  left: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 239px;
+  width: 255px;
+}
+
+.recette-2 .dakhine {
+  left: 114px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 203px;
+  white-space: nowrap;
+}
+
+.recette-2 .la-recette-dtaille {
+  left: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 239px;
+  width: 255px;
+}
+
+.recette-2 .cest-bon {
+  left: 108px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 203px;
+  white-space: nowrap;
+}
+
+.recette-2 .recette-du-cest-bon {
+  left: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 239px;
+  width: 255px;
+}
+
+.recette-2 .paella-la-sngalaise {
+  left: 42px;
+  text-align: center;
+  top: 203px;
+  white-space: nowrap;
+  width: 232px;
+}
+
+.recette-2 .paella-la-sngal {
+  left: 35px;
+  top: 239px;
+  width: 255px;
+}
+
+.recette-2 .overlap-group5 {
+  align-items: flex-start;
+  background-color: var(--daintree);
+  display: flex;
+  gap: 986px;
+  height: 115px;
+  justify-content: flex-end;
+  margin-right: 1.0px;
+  margin-top: 37px;
+  min-width: 1441px;
+  padding: 0 22px;
+}
+
+.recette-2 .copyright {
+  align-self: center;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 1.0px;
+  min-height: 24px;
+  min-width: 268px;
+  white-space: nowrap;
+}
+
+.recette-2 .rectangle-35 {
+  cursor: pointer;
+  height: 111px;
+  object-fit: cover;
+  width: 111px;
+}
+
+.recette-2 .frame {
+  align-items: flex-start;
+  display: flex;
+  gap: 23px;
+  height: 330px;
+  margin-right: 1.0px;
+  position: relative;
+  width: 1333px;
+}
+
+.recette-2 .paella-la {
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+}

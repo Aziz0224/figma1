@@ -1,0 +1,335 @@
+/* screen - bibliotheque-8 */
+
+.bibliotheque-8 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 1024px;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.bibliotheque-8 .group-135 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  min-width: 1440px;
+}
+
+.bibliotheque-8 .group-138 {
+  align-items: center;
+  background-color: var(--daintree);
+  display: flex;
+  min-width: 1440px;
+}
+
+.bibliotheque-8 .rectangle-29 {
+  height: 104px;
+  object-fit: cover;
+  width: 138px;
+}
+
+.bibliotheque-8 .accueil {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 2.0px;
+  margin-left: 433px;
+  min-height: 24px;
+  min-width: 86px;
+  white-space: nowrap;
+}
+
+.bibliotheque-8 .recettes {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 2.0px;
+  margin-left: 44px;
+  min-height: 24px;
+  min-width: 102px;
+  white-space: nowrap;
+}
+
+.bibliotheque-8 .bibliothque {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 2.0px;
+  margin-left: 37px;
+  min-height: 24px;
+  min-width: 145px;
+  white-space: nowrap;
+}
+
+.bibliotheque-8 .astuces {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 2.0px;
+  margin-left: 34px;
+  min-height: 24px;
+  min-width: 94px;
+  white-space: nowrap;
+}
+
+.bibliotheque-8 .group-129 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  margin-left: 58px;
+  margin-top: 1.0px;
+  min-width: 99px;
+}
+
+.bibliotheque-8 .overlap-group-1 {
+  align-items: flex-start;
+  background-color: var(--buff);
+  border: 1px solid;
+  border-color: var(--supernova);
+  border-radius: 10px;
+  display: flex;
+  height: 41px;
+  min-width: 97px;
+  padding: 11px 14px;
+}
+
+.bibliotheque-8 .sidentifier {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 18px;
+  white-space: nowrap;
+}
+
+.bibliotheque-8 .overlap-group1 {
+  align-items: flex-start;
+  background-color: var(--daintree);
+  border: 1px solid;
+  border-color: var(--buff);
+  border-radius: 10px;
+  display: flex;
+  height: 41px;
+  margin-left: 40px;
+  margin-top: 1.0px;
+  min-width: 97px;
+  padding: 10px 14px;
+}
+
+.bibliotheque-8 .sinscrire {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 18px;
+  white-space: nowrap;
+}
+
+.bibliotheque-8 .group-148 {
+  align-items: flex-start;
+  display: flex;
+  gap: 5px;
+  margin-left: 119px;
+  margin-top: 35px;
+  min-width: 134px;
+}
+
+.bibliotheque-8 .vector {
+  height: 24px;
+  margin-top: 0;
+  width: 24px;
+}
+
+.bibliotheque-8 .historique {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 24px;
+  white-space: nowrap;
+}
+
+.bibliotheque-8 .frame-2 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  gap: 23px;
+  margin-left: 1.0px;
+  margin-top: 32px;
+  position: relative;
+  width: 1333px;
+}
+
+.bibliotheque-8 .group-13 {
+  height: 330px;
+  min-width: 320px;
+  position: relative;
+}
+
+.bibliotheque-8 .overlap-group {
+  height: 330px;
+  position: relative;
+  width: 316px;
+}
+
+.bibliotheque-8 .rectangle-31 {
+  background-color: var(--white);
+  border-radius: 10px;
+  height: 329px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 316px;
+}
+
+.bibliotheque-8 .title {
+  left: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 203px;
+  white-space: nowrap;
+}
+
+.bibliotheque-8 .soupe-kandia-sauce {
+  left: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 239px;
+  width: 255px;
+}
+
+.bibliotheque-8 .rectangle-32 {
+  height: 192px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 316px;
+}
+
+.bibliotheque-8 .dakhine {
+  left: 114px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 203px;
+  white-space: nowrap;
+}
+
+.bibliotheque-8 .la-recette-dtaille {
+  left: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 239px;
+  width: 255px;
+}
+
+.bibliotheque-8 .cest-bon {
+  left: 108px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 203px;
+  white-space: nowrap;
+}
+
+.bibliotheque-8 .recette-du-cest-bon {
+  left: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 239px;
+  width: 255px;
+}
+
+.bibliotheque-8 .group-133 {
+  height: 330px;
+  margin-right: -4.00px;
+  min-width: 320px;
+  position: relative;
+}
+
+.bibliotheque-8 .paella-la-sngalaise {
+  left: 42px;
+  text-align: center;
+  top: 203px;
+  white-space: nowrap;
+  width: 232px;
+}
+
+.bibliotheque-8 .paella-la-sngal {
+  left: 35px;
+  top: 239px;
+  width: 255px;
+}
+
+.bibliotheque-8 .flex-row {
+  align-items: flex-start;
+  display: flex;
+  gap: 5px;
+  height: 25px;
+  margin-left: 119px;
+  margin-top: 38px;
+  min-width: 224px;
+}
+
+.bibliotheque-8 .vector-1 {
+  align-self: flex-end;
+  height: 24px;
+  width: 24px;
+}
+
+.bibliotheque-8 .regarder-plus-tard {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 24px;
+  white-space: nowrap;
+}
+
+.bibliotheque-8 .enregistrez-des-vid {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m2);
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 119px;
+  margin-top: 10px;
+  min-height: 24px;
+  white-space: nowrap;
+}
+
+.bibliotheque-8 .overlap-group4 {
+  align-items: flex-start;
+  background-color: var(--daintree);
+  display: flex;
+  gap: 986px;
+  height: 115px;
+  justify-content: flex-end;
+  margin-left: 1px;
+  margin-top: 287px;
+  min-width: 1441px;
+  padding: 0 22px;
+}
+
+.bibliotheque-8 .copyright {
+  align-self: center;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 1.0px;
+  min-height: 24px;
+  min-width: 268px;
+  white-space: nowrap;
+}
+
+.bibliotheque-8 .rectangle-35 {
+  height: 111px;
+  object-fit: cover;
+  width: 111px;
+}
+
+.bibliotheque-8 .paella-la {
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+}

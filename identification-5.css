@@ -1,0 +1,506 @@
+/* screen - identification-5 */
+
+.identification-5 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.identification-5 .overlap-group6 {
+  height: 1579px;
+  margin-left: -1px;
+  position: relative;
+  width: 1441px;
+}
+
+.identification-5 .x96a7cf4a9004ce77fc068a961f3b1b21-1 {
+  height: 1579px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.identification-5 .bienvenue {
+  left: 603px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 135px;
+  white-space: nowrap;
+}
+
+.identification-5 .cuisiner-tous-les-pl {
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xl2);
+  font-weight: 300;
+  left: 284px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 196px;
+  white-space: nowrap;
+}
+
+.identification-5 .group-134 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 63px;
+  left: 680px;
+  min-height: 417px;
+  position: absolute;
+  top: 32px;
+  width: 736px;
+}
+
+.identification-5 .flex-row {
+  align-items: center;
+  display: flex;
+  min-width: 728px;
+}
+
+.identification-5 .accueil {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 1.0px;
+  min-height: 24px;
+  min-width: 86px;
+  white-space: nowrap;
+}
+
+.identification-5 .recettes {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 1.0px;
+  margin-left: 76px;
+  min-height: 24px;
+  min-width: 102px;
+  white-space: nowrap;
+}
+
+.identification-5 .astuces {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 1.0px;
+  margin-left: 76px;
+  min-height: 24px;
+  min-width: 94px;
+  white-space: nowrap;
+}
+
+.identification-5 .overlap-group4 {
+  align-items: flex-start;
+  background-color: var(--buff);
+  border: 1px solid;
+  border-color: var(--supernova);
+  border-radius: 10px;
+  display: flex;
+  height: 41px;
+  margin-left: 58px;
+  min-width: 97px;
+  padding: 11px 14px;
+}
+
+.identification-5 .sidentifier {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 18px;
+  white-space: nowrap;
+}
+
+.identification-5 .overlap-group5 {
+  align-items: flex-start;
+  background-color: var(--daintree);
+  border: 1px solid;
+  border-color: var(--buff);
+  border-radius: 10px;
+  display: flex;
+  height: 41px;
+  margin-left: 42px;
+  min-width: 97px;
+  padding: 11px 14px;
+}
+
+.identification-5 .sinscrire {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 18px;
+  white-space: nowrap;
+}
+
+.identification-5 .overlap-group-1 {
+  align-items: center;
+  align-self: flex-end;
+  background-color: var(--daintree);
+  flex-direction: column;
+  margin-right: 13px;
+  min-height: 313px;
+  padding: 62.6px 0;
+  width: 433px;
+}
+
+.identification-5 .overlap-group1 {
+  align-items: flex-end;
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/6453d5a5493b10f69c06f39b/releases/6453e497c5ce4fc9b1da4d1e/img/rectangle-83-1.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 37px;
+  margin-top: 14px;
+  min-width: 387px;
+  padding: 10.9px 21.0px;
+}
+
+.identification-5 .identifiant-ou-adresse-mail {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 14px;
+  white-space: nowrap;
+  width: 144px;
+}
+
+.identification-5 .overlap-group3 {
+  align-items: flex-start;
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/6453d5a5493b10f69c06f39b/releases/6453e497c5ce4fc9b1da4d1e/img/rectangle-84.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 37px;
+  margin-top: 22px;
+  min-width: 387px;
+  padding: 10.9px 21.0px;
+}
+
+.identification-5 .mot {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 14px;
+  white-space: nowrap;
+}
+
+.identification-5 .overlap-group2 {
+  align-items: flex-start;
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/6453d5a5493b10f69c06f39b/releases/6453e497c5ce4fc9b1da4d1e/img/rectangle-85-1.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 37px;
+  justify-content: flex-end;
+  margin-top: 17px;
+  min-width: 387px;
+  padding: 7.0px 144.3px;
+}
+
+.identification-5 .connexion {
+  color: var(--black);
+  font-family: var(--font-family-roboto);
+  font-size: 18px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 21px;
+  white-space: nowrap;
+}
+
+.identification-5 .flex-row-1 {
+  align-items: flex-start;
+  display: flex;
+  gap: 231px;
+  height: 14px;
+  margin-right: 2.0px;
+  margin-top: 11px;
+  min-width: 343px;
+}
+
+.identification-5 .sinscrire-1 {
+  min-height: 14px;
+  width: 48px;
+}
+
+.identification-5 .rectangle-30 {
+  height: 843px;
+  left: 1px;
+  position: absolute;
+  top: 732px;
+  width: 1440px;
+}
+
+.identification-5 .title {
+  left: 633px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 811px;
+  white-space: nowrap;
+}
+
+.identification-5 .frame-1 {
+  align-items: flex-start;
+  display: flex;
+  gap: 23px;
+  height: 330px;
+  left: 54px;
+  position: absolute;
+  top: 1009px;
+  width: 1333px;
+}
+
+.identification-5 .group-13 {
+  height: 330px;
+  min-width: 320px;
+  position: relative;
+}
+
+.identification-5 .overlap-group {
+  height: 330px;
+  position: relative;
+  width: 316px;
+}
+
+.identification-5 .rectangle-31 {
+  background-color: var(--white);
+  border-radius: 10px;
+  height: 329px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 316px;
+}
+
+.identification-5 .mbakhalou-saloum {
+  left: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 203px;
+  white-space: nowrap;
+}
+
+.identification-5 .recette-originale-du {
+  left: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 239px;
+  width: 255px;
+}
+
+.identification-5 .rectangle-32 {
+  height: 192px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 316px;
+}
+
+.identification-5 .thieboudieune {
+  left: 43px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 203px;
+  white-space: nowrap;
+}
+
+.identification-5 .thiboudieune-bou-w {
+  left: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 239px;
+  width: 255px;
+}
+
+.identification-5 .thiere-ak-mboum {
+  left: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 203px;
+  white-space: nowrap;
+}
+
+.identification-5 .thir-ak-mboum-cou {
+  left: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 239px;
+  width: 255px;
+}
+
+.identification-5 .group-133 {
+  height: 330px;
+  margin-right: -4.00px;
+  min-width: 320px;
+  position: relative;
+}
+
+.identification-5 .croquettes-de-pommes-de-terre {
+  left: 42px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 203px;
+  white-space: nowrap;
+  width: 232px;
+}
+
+.identification-5 .croquettes-de-pommes {
+  left: 35px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 239px;
+  width: 255px;
+}
+
+.identification-5 .rectangle-34 {
+  background-color: var(--daintree);
+  height: 115px;
+  left: 0;
+  position: absolute;
+  top: 1464px;
+  width: 1441px;
+}
+
+.identification-5 .copyright {
+  left: 54px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1509px;
+  white-space: nowrap;
+}
+
+.identification-5 .rectangle-35 {
+  height: 111px;
+  left: 1308px;
+  object-fit: cover;
+  position: absolute;
+  top: 1464px;
+  width: 111px;
+}
+
+.identification-5 .group-138 {
+  align-items: center;
+  background-color: var(--daintree);
+  cursor: pointer;
+  display: flex;
+  height: 104px;
+  left: 0;
+  min-width: 1440px;
+  padding: 0 1px;
+  position: absolute;
+  top: 0;
+}
+
+.identification-5 .rectangle-29 {
+  height: 104px;
+  object-fit: cover;
+  width: 137px;
+}
+
+.identification-5 .accueil-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 2.0px;
+  margin-left: 433px;
+  min-height: 24px;
+  min-width: 86px;
+  white-space: nowrap;
+}
+
+.identification-5 .recettes-1 {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 2.0px;
+  margin-left: 44px;
+  min-height: 24px;
+  min-width: 102px;
+  white-space: nowrap;
+}
+
+.identification-5 .bibliothque {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 2.0px;
+  margin-left: 37px;
+  min-height: 24px;
+  min-width: 145px;
+  white-space: nowrap;
+}
+
+.identification-5 .astuces-1 {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 2.0px;
+  margin-left: 34px;
+  min-height: 24px;
+  min-width: 94px;
+  white-space: nowrap;
+}
+
+.identification-5 .group-129 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  margin-left: 58px;
+  margin-top: 1.0px;
+  min-width: 99px;
+}
+
+.identification-5 .overlap-group-2 {
+  align-items: flex-start;
+  background-color: var(--buff);
+  border: 1px solid;
+  border-color: var(--supernova);
+  height: 41px;
+  min-width: 97px;
+  padding: 11px 14px;
+}
+
+.identification-5 .sidentifier-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 18px;
+  white-space: nowrap;
+}
+
+.identification-5 .overlap-group1-1 {
+  align-items: flex-start;
+  background-color: var(--daintree);
+  border: 1px solid;
+  border-color: var(--buff);
+  border-radius: 10px;
+  display: flex;
+  height: 41px;
+  margin-left: 40px;
+  margin-top: 1.0px;
+  min-width: 97px;
+  padding: 10px 14px;
+}
+
+.identification-5 .sinscrire-2 {
+  cursor: pointer;
+  min-height: 18px;
+}
+
+.identification-5 .overlap-group-3 {
+  border-radius: 10px;
+  display: flex;
+}
+
+.identification-5 .sinscrire-3 {
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}

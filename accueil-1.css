@@ -1,0 +1,330 @@
+/* screen - accueil-1 */
+
+.accueil-1 {
+  align-items: flex-start;
+  background-color: white;
+  border: 1px none;
+  display: flex;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.accueil-1 .overlap-group5 {
+  height: 1579px;
+  margin-left: -1px;
+  position: relative;
+  width: 1443px;
+}
+
+.accueil-1 .x96a7cf4a9004ce77fc068a961f3b1b21-1 {
+  height: 1579px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.accueil-1 .group-138 {
+  align-items: center;
+  background-color: var(--daintree);
+  display: flex;
+  height: 104px;
+  left: 1px;
+  min-width: 1440px;
+  position: absolute;
+  top: 0;
+}
+
+.accueil-1 .rectangle-29 {
+  height: 104px;
+  object-fit: cover;
+  width: 138px;
+}
+
+.accueil-1 .accueil {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 2.0px;
+  margin-left: 433px;
+  min-height: 24px;
+  min-width: 86px;
+  white-space: nowrap;
+}
+
+.accueil-1 .recettes {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 2.0px;
+  margin-left: 44px;
+  min-height: 24px;
+  min-width: 102px;
+  white-space: nowrap;
+}
+
+.accueil-1 .bibliothque {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 2.0px;
+  margin-left: 37px;
+  min-height: 24px;
+  min-width: 145px;
+  white-space: nowrap;
+}
+
+.accueil-1 .astuces {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 2.0px;
+  margin-left: 34px;
+  min-height: 24px;
+  min-width: 94px;
+  white-space: nowrap;
+}
+
+.accueil-1 .group-129 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  margin-left: 58px;
+  margin-top: 1.0px;
+  min-width: 99px;
+}
+
+.accueil-1 .overlap-group-1 {
+  align-items: flex-start;
+  background-color: var(--buff);
+  border: 1px solid;
+  border-color: var(--supernova);
+  border-radius: 10px;
+  display: flex;
+  height: 41px;
+  min-width: 97px;
+  padding: 11px 14px;
+}
+
+.accueil-1 .sidentifier {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 18px;
+  white-space: nowrap;
+}
+
+.accueil-1 .overlap-group1 {
+  align-items: flex-start;
+  background-color: var(--daintree);
+  border: 1px solid;
+  border-color: var(--buff);
+  border-radius: 10px;
+  display: flex;
+  height: 41px;
+  margin-left: 40px;
+  margin-top: 1.0px;
+  min-width: 97px;
+  padding: 10px 14px;
+}
+
+.accueil-1 .sinscrire {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 18px;
+  white-space: nowrap;
+}
+
+.accueil-1 .rectangle-30 {
+  height: 745px;
+  left: 1px;
+  position: absolute;
+  top: 834px;
+  width: 1440px;
+}
+
+.accueil-1 .title {
+  left: 633px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 895px;
+  white-space: nowrap;
+}
+
+.accueil-1 .frame-1 {
+  align-items: flex-start;
+  display: flex;
+  gap: 23px;
+  height: 330px;
+  left: 54px;
+  position: absolute;
+  top: 1009px;
+  width: 1333px;
+}
+
+.accueil-1 .group-13 {
+  height: 330px;
+  min-width: 320px;
+  position: relative;
+}
+
+.accueil-1 .overlap-group {
+  height: 330px;
+  position: relative;
+  width: 316px;
+}
+
+.accueil-1 .rectangle-31 {
+  background-color: var(--white);
+  border-radius: 10px;
+  height: 329px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 316px;
+}
+
+.accueil-1 .mbakhalou-saloum {
+  left: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 203px;
+  white-space: nowrap;
+}
+
+.accueil-1 .recette-originale-du {
+  left: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 239px;
+  width: 255px;
+}
+
+.accueil-1 .rectangle-32 {
+  height: 192px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 316px;
+}
+
+.accueil-1 .thieboudieune {
+  left: 43px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 203px;
+  white-space: nowrap;
+}
+
+.accueil-1 .thiboudieune-bou-w {
+  left: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 239px;
+  width: 255px;
+}
+
+.accueil-1 .thiere-ak-mboum {
+  left: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 203px;
+  white-space: nowrap;
+}
+
+.accueil-1 .thir-ak-mboum-cou {
+  left: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 239px;
+  width: 255px;
+}
+
+.accueil-1 .group-133 {
+  height: 330px;
+  margin-right: -4.00px;
+  min-width: 320px;
+  position: relative;
+}
+
+.accueil-1 .croquettes-de-pommes-de-terre {
+  left: 42px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 203px;
+  white-space: nowrap;
+  width: 232px;
+}
+
+.accueil-1 .croquettes-de-pommes {
+  left: 35px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 239px;
+  width: 255px;
+}
+
+.accueil-1 .overlap-group4 {
+  align-items: flex-start;
+  background-color: var(--daintree);
+  display: flex;
+  gap: 986px;
+  height: 115px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 1441px;
+  padding: 0 22px;
+  position: absolute;
+  top: 1464px;
+}
+
+.accueil-1 .copyright {
+  align-self: center;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 1.0px;
+  min-height: 24px;
+  min-width: 268px;
+  white-space: nowrap;
+}
+
+.accueil-1 .rectangle-35 {
+  height: 111px;
+  object-fit: cover;
+  width: 111px;
+}
+
+.accueil-1 .bienvenue {
+  left: 599px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 121px;
+  white-space: nowrap;
+  width: 242px;
+}
+
+.accueil-1 .cuisiner-tous-les-pl {
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xxxxl);
+  font-weight: 300;
+  left: 371px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 182px;
+  white-space: nowrap;
+}

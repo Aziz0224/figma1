@@ -1,0 +1,486 @@
+/* screen - incription-6 */
+
+.incription-6 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  height: 1200px;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.incription-6 .overlap-group5 {
+  height: 2167px;
+  margin-left: -3px;
+  position: relative;
+  width: 1783px;
+}
+
+.incription-6 .group-54 {
+  background-color: var(--daintree);
+  height: 1201px;
+  left: 3px;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.incription-6 .oui {
+  left: 223px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 963px;
+  white-space: nowrap;
+}
+
+.incription-6 .ellipse-7 {
+  background-color: var(--alto);
+  border-radius: 15.5px;
+  height: 31px;
+  left: 181px;
+  position: absolute;
+  top: 960px;
+  transform: rotate(180deg);
+  width: 31px;
+}
+
+.incription-6 .ellipse-8 {
+  background-color: var(--alto);
+  border-radius: 15.5px;
+  height: 31px;
+  left: 377px;
+  position: absolute;
+  top: 958px;
+  transform: rotate(180deg);
+  width: 31px;
+}
+
+.incription-6 .non {
+  left: 414px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 963px;
+  white-space: nowrap;
+}
+
+.incription-6 .avez-vous-dj-eu-de {
+  left: 181px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 919px;
+  white-space: nowrap;
+}
+
+.incription-6 .ellipse-9 {
+  background-color: #265f5c;
+  border-radius: 10px;
+  height: 20px;
+  left: 186px;
+  position: absolute;
+  top: 966px;
+  width: 20px;
+}
+
+.incription-6 .formulaire-dinscriptin {
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xl);
+  font-weight: 700;
+  left: 504px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 164px;
+  white-space: nowrap;
+}
+
+.incription-6 .group-42 {
+  align-items: flex-start;
+  display: flex;
+  gap: 3947px;
+  height: 1811px;
+  justify-content: flex-end;
+  left: 599px;
+  min-width: 1184px;
+  position: absolute;
+  top: 356px;
+}
+
+.incription-6 .ellipse-4 {
+  background-color: var(--buff-22);
+  border-radius: 422px;
+  height: 844px;
+  width: 844px;
+}
+
+.incription-6 .ellipse-6 {
+  height: 403px;
+  margin-top: -234px;
+  width: 844px;
+}
+
+.incription-6 .rectangle-82 {
+  background-color: var(--buff-22);
+  border: 1px solid;
+  border-color: var(--alto);
+  border-radius: 10px;
+  height: 54px;
+  left: 181px;
+  position: absolute;
+  top: 501px;
+  width: 272px;
+}
+
+.incription-6 .vector {
+  height: 5px;
+  left: 427px;
+  position: absolute;
+  top: 528px;
+  width: 15px;
+}
+
+.incription-6 .rectangle-93 {
+  background-color: var(--buff-22);
+  border: 1px solid;
+  border-color: var(--alto);
+  border-radius: 10px;
+  height: 54px;
+  left: 496px;
+  position: absolute;
+  top: 501px;
+  width: 273px;
+}
+
+.incription-6 .rectangle-83 {
+  height: 54px;
+  left: 181px;
+  position: absolute;
+  top: 620px;
+  width: 588px;
+}
+
+.incription-6 .rectangle-85 {
+  height: 54px;
+  left: 181px;
+  position: absolute;
+  top: 743px;
+  width: 273px;
+}
+
+.incription-6 .adresse-email {
+  left: 181px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 588px;
+  white-space: nowrap;
+}
+
+.incription-6 .group-44 {
+  align-items: flex-start;
+  display: flex;
+  gap: 42px;
+  height: 54px;
+  left: 181px;
+  min-width: 592px;
+  position: absolute;
+  top: 377px;
+}
+
+.incription-6 .overlap-group {
+  align-items: flex-end;
+  background-color: var(--buff-22);
+  border: 1px solid;
+  border-color: var(--alto);
+  border-radius: 10px;
+  display: flex;
+  height: 54px;
+  min-width: 273px;
+  padding: 13px 28px;
+}
+
+.incription-6 .prenom {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 24px;
+  min-width: 73px;
+  white-space: nowrap;
+}
+
+.incription-6 .nom-de-famille {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 24px;
+  min-width: 142px;
+  white-space: nowrap;
+}
+
+.incription-6 .nom-complet {
+  left: 181px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 343px;
+  white-space: nowrap;
+}
+
+.incription-6 .nunero-telephone {
+  left: 181px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 710px;
+  white-space: nowrap;
+}
+
+.incription-6 .date-de-naissance {
+  left: 181px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 467px;
+  white-space: nowrap;
+}
+
+.incription-6 .lieu-de-naissance {
+  left: 499px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 467px;
+  white-space: nowrap;
+}
+
+.incription-6 .overlap-group2 {
+  border-radius: 10px;
+  height: 54px;
+  left: 181px;
+  position: absolute;
+  top: 837px;
+  width: 181px;
+}
+
+.incription-6 .rectangle-90 {
+  background-color: var(--buff-22);
+  border: 1px solid;
+  border-color: var(--alto);
+  border-radius: 10px;
+  height: 54px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  transform: rotate(180deg);
+  width: 181px;
+}
+
+.incription-6 .pays {
+  color: var(--alto);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-weight: 200;
+  left: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 15px;
+  white-space: nowrap;
+}
+
+.incription-6 .vector-1 {
+  height: 5px;
+  left: 144px;
+  position: absolute;
+  top: 30px;
+  width: 15px;
+}
+
+.incription-6 .group-139 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 54px;
+  left: 579px;
+  min-width: 289px;
+  position: absolute;
+  top: 978px;
+}
+
+.incription-6 .overlap-group3 {
+  align-items: center;
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/6453d5a5493b10f69c06f39b/releases/6453e497c5ce4fc9b1da4d1e/img/group-137@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 54px;
+  min-width: 287px;
+  padding: 0 66px;
+}
+
+.incription-6 .soumettre {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-l);
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 36px;
+  min-width: 155px;
+  white-space: nowrap;
+}
+
+.incription-6 .group-138 {
+  align-items: center;
+  background-color: var(--daintree);
+  display: flex;
+  height: 104px;
+  left: 3px;
+  min-width: 1440px;
+  position: absolute;
+  top: 0;
+}
+
+.incription-6 .rectangle-29 {
+  cursor: pointer;
+  height: 104px;
+  object-fit: cover;
+  width: 138px;
+}
+
+.incription-6 .accueil {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 2.0px;
+  margin-left: 433px;
+  min-height: 24px;
+  min-width: 86px;
+  white-space: nowrap;
+}
+
+.incription-6 .recettes {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 2.0px;
+  margin-left: 44px;
+  min-height: 24px;
+  min-width: 102px;
+  white-space: nowrap;
+}
+
+.incription-6 .bibliothque {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 2.0px;
+  margin-left: 37px;
+  min-height: 24px;
+  min-width: 145px;
+  white-space: nowrap;
+}
+
+.incription-6 .astuces {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 2.0px;
+  margin-left: 34px;
+  min-height: 24px;
+  min-width: 94px;
+  white-space: nowrap;
+}
+
+.incription-6 .group-129 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  margin-left: 58px;
+  margin-top: 1.0px;
+  min-width: 99px;
+}
+
+.incription-6 .overlap-group-1 {
+  align-items: flex-start;
+  background-color: var(--daintree);
+  border: 1px solid;
+  border-color: var(--white);
+  border-radius: 10px;
+  display: flex;
+  height: 41px;
+  min-width: 97px;
+  padding: 11px 14px;
+}
+
+.incription-6 .sidentifier {
+  color: var(--supernova);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xs);
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 18px;
+  white-space: nowrap;
+}
+
+.incription-6 .overlap-group1 {
+  align-items: flex-start;
+  background-color: var(--supernova);
+  border: 1px solid;
+  border-color: var(--buff2);
+  border-radius: 10px;
+  display: flex;
+  height: 41px;
+  margin-left: 40px;
+  margin-top: 1.0px;
+  min-width: 97px;
+  padding: 10px 14px;
+}
+
+.incription-6 .sinscrire {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 18px;
+  white-space: nowrap;
+}
+
+.incription-6 .undraw_sign_up_n6im-1 {
+  height: 399px;
+  left: 1022px;
+  position: absolute;
+  top: 568px;
+  width: 421px;
+}
+
+.incription-6 .overlap-group4 {
+  align-items: flex-start;
+  background-color: var(--daintree);
+  display: flex;
+  gap: 986px;
+  height: 115px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 1441px;
+  padding: 0 22px;
+  position: absolute;
+  top: 1086px;
+}
+
+.incription-6 .copyright {
+  align-self: center;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 1.0px;
+  min-height: 24px;
+  min-width: 268px;
+  white-space: nowrap;
+}
+
+.incription-6 .rectangle-35 {
+  cursor: pointer;
+  height: 111px;
+  object-fit: cover;
+  width: 111px;
+}

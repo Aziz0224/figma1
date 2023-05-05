@@ -1,0 +1,488 @@
+/* screen - plats-5 */
+
+.plats-5 {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 2240px;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.plats-5 .overlap-group5 {
+  align-self: flex-start;
+  height: 840px;
+  margin-top: -30px;
+  position: relative;
+  width: 1567px;
+}
+
+.plats-5 .group-134 {
+  align-items: flex-start;
+  display: flex;
+  gap: 47px;
+  height: 839px;
+  left: 514px;
+  min-width: 1053px;
+  position: absolute;
+  top: 0;
+}
+
+.plats-5 .recettes {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 70px;
+  min-height: 24px;
+  min-width: 102px;
+  white-space: nowrap;
+}
+
+.plats-5 .overlap-group-2 {
+  align-items: flex-start;
+  background-color: var(--daintree);
+  border-radius: 450px/419.5px;
+  display: flex;
+  gap: 11px;
+  height: 839px;
+  min-width: 900px;
+  padding: 62px 14px;
+}
+
+.plats-5 .actualites {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 8px;
+  min-height: 24px;
+  min-width: 123px;
+  white-space: nowrap;
+}
+
+.plats-5 .overlap-group1-1 {
+  height: 661px;
+  position: relative;
+  width: 629px;
+}
+
+.plats-5 .ellipse-2 {
+  height: 634px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 27px;
+  width: 629px;
+}
+
+.plats-5 .rectangle-28 {
+  background-color: var(--daintree);
+  border: 1px solid;
+  border-color: var(--buff);
+  border-radius: 10px;
+  height: 41px;
+  left: 499px;
+  position: absolute;
+  top: 0;
+  width: 97px;
+}
+
+.plats-5 .title {
+  left: 67px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 178px;
+  white-space: nowrap;
+  width: 717px;
+}
+
+.plats-5 .je-vous-propose-aujo {
+  left: 67px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 254px;
+  width: 588px;
+}
+
+.plats-5 .flex-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  height: 398px;
+  left: 67px;
+  position: absolute;
+  top: 442px;
+  width: 924px;
+}
+
+.plats-5 .text {
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  white-space: nowrap;
+  width: 924px;
+}
+
+.plats-5 .text15 {
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  width: 924px;
+}
+
+.plats-5 .group-135 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 104px;
+  left: 0;
+  min-width: 1440px;
+  position: absolute;
+  top: 30px;
+}
+
+.plats-5 .group-138 {
+  align-items: center;
+  background-color: var(--daintree);
+  display: flex;
+  min-width: 1440px;
+}
+
+.plats-5 .rectangle-29 {
+  height: 104px;
+  object-fit: cover;
+  width: 138px;
+}
+
+.plats-5 .accueil {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 2.0px;
+  margin-left: 433px;
+  min-height: 24px;
+  min-width: 86px;
+  white-space: nowrap;
+}
+
+.plats-5 .recettes-1 {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 2.0px;
+  margin-left: 44px;
+  min-height: 24px;
+  min-width: 102px;
+  white-space: nowrap;
+}
+
+.plats-5 .bibliothque {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 2.0px;
+  margin-left: 37px;
+  min-height: 24px;
+  min-width: 145px;
+  white-space: nowrap;
+}
+
+.plats-5 .astuces {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 2.0px;
+  margin-left: 34px;
+  min-height: 24px;
+  min-width: 94px;
+  white-space: nowrap;
+}
+
+.plats-5 .group-129 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  margin-left: 58px;
+  margin-top: 1.0px;
+  min-width: 99px;
+}
+
+.plats-5 .overlap-group-3 {
+  align-items: flex-start;
+  background-color: var(--buff);
+  border: 1px solid;
+  border-color: var(--supernova);
+  border-radius: 10px;
+  display: flex;
+  height: 41px;
+  min-width: 97px;
+  padding: 11px 14px;
+}
+
+.plats-5 .sidentifier {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 18px;
+  white-space: nowrap;
+}
+
+.plats-5 .overlap-group1-2 {
+  align-items: flex-start;
+  background-color: var(--daintree);
+  border: 1px solid;
+  border-color: var(--buff);
+  border-radius: 10px;
+  display: flex;
+  height: 41px;
+  margin-left: 40px;
+  margin-top: 1.0px;
+  min-width: 97px;
+  padding: 10px 14px;
+}
+
+.plats-5 .sinscrire {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 18px;
+  white-space: nowrap;
+}
+
+.plats-5 .overlap-group {
+  border-radius: 10px;
+  height: 373px;
+  left: 714px;
+  position: absolute;
+  top: 238px;
+  width: 601px;
+}
+
+.plats-5 .overlap-group-1 {
+  align-items: center;
+  background-color: var(--buff-2);
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 373px;
+  padding: 19px 41px;
+  position: absolute;
+  top: 0;
+  width: 601px;
+}
+
+.plats-5 .partager {
+  align-self: flex-start;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 18px;
+  white-space: nowrap;
+}
+
+.plats-5 .frame-3 {
+  align-items: flex-start;
+  display: flex;
+  gap: 28px;
+  margin-right: 1.0px;
+  margin-top: 23px;
+  position: relative;
+  width: fit-content;
+}
+
+.plats-5 .rectangle-96 {
+  height: 53px;
+  min-width: 60px;
+  object-fit: cover;
+  position: relative;
+}
+
+.plats-5 .rectangle-97 {
+  height: 53px;
+  min-width: 60px;
+  object-fit: cover;
+  position: relative;
+}
+
+.plats-5 .rectangle-100 {
+  height: 53px;
+  min-width: 60px;
+  object-fit: cover;
+  position: relative;
+}
+
+.plats-5 .overlap-group1 {
+  align-items: center;
+  background-color: var(--buff);
+  border: 1px solid;
+  border-color: var(--daintree);
+  border-radius: 10px;
+  display: flex;
+  gap: 178px;
+  height: 50px;
+  justify-content: flex-end;
+  margin-right: 15.0px;
+  margin-top: 24px;
+  min-width: 486px;
+  padding: 0 12px;
+}
+
+.plats-5 .httpsyoutubekm-m6mqvnxcs {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 5.0px;
+  min-height: 17px;
+  text-decoration: underline;
+  width: 212px;
+}
+
+.plats-5 .overlap-group2 {
+  align-items: flex-start;
+  background-color: var(--daintree);
+  border-radius: 10px;
+  display: flex;
+  height: 28px;
+  min-width: 59px;
+  padding: 4px 7px;
+}
+
+.plats-5 .copier {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 17px;
+  width: 44px;
+}
+
+.plats-5 .vector {
+  cursor: pointer;
+  height: 17px;
+  left: 543px;
+  position: absolute;
+  top: 16px;
+  width: 17px;
+}
+
+.plats-5 .rectangle-96-1 {
+  height: 53px;
+  min-width: 60px;
+  object-fit: cover;
+  position: relative;
+}
+
+.plats-5 .rectangle-97-1 {
+  height: 53px;
+  min-width: 60px;
+  object-fit: cover;
+  position: relative;
+}
+
+.plats-5 .icon-facebook-1 {
+  height: 53px;
+  min-width: 60px;
+  object-fit: cover;
+  position: relative;
+}
+
+.plats-5 .icon-twitter-1 {
+  height: 53px;
+  min-width: 60px;
+  object-fit: cover;
+  position: relative;
+}
+
+.plats-5 .rectangle-100-1 {
+  height: 53px;
+  min-width: 60px;
+  object-fit: cover;
+  position: relative;
+}
+
+.plats-5 .flex-container-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  height: 477px;
+  margin-right: 20.0px;
+  margin-top: 53px;
+  position: relative;
+  width: 1286px;
+}
+
+.plats-5 .text-1 {
+  white-space: nowrap;
+}
+
+.plats-5 .overlap-group7 {
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/6453d5a5493b10f69c06f39b/releases/6453e497c5ce4fc9b1da4d1e/img/rectangle-37.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 530px;
+  margin-right: 8.0px;
+  margin-top: 67px;
+  position: relative;
+  width: 1168px;
+}
+
+.plats-5 .ellipse-10 {
+  background-color: var(--alto-2);
+  border-radius: 96px;
+  height: 192px;
+  left: 492px;
+  position: absolute;
+  top: 169px;
+  width: 192px;
+}
+
+.plats-5 .polygon-1 {
+  height: 87px;
+  left: 559px;
+  position: absolute;
+  top: 222px;
+  width: 75px;
+}
+
+.plats-5 .overlap-group6 {
+  align-items: flex-start;
+  background-color: var(--daintree);
+  display: flex;
+  gap: 986px;
+  height: 115px;
+  justify-content: flex-end;
+  margin-right: 9.0px;
+  margin-top: 188px;
+  min-width: 1441px;
+  padding: 0 22px;
+}
+
+.plats-5 .copyright {
+  align-self: center;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 1.0px;
+  min-height: 24px;
+  min-width: 268px;
+  white-space: nowrap;
+}
+
+.plats-5 .rectangle-35 {
+  cursor: pointer;
+  height: 111px;
+  object-fit: cover;
+  width: 111px;
+}
+
+.plats-5 .icon {
+  height: 53px;
+  min-width: 60px;
+  object-fit: cover;
+  position: relative;
+}
+
+.plats-5 .text-3 {
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  width: 1286px;
+}

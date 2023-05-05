@@ -1,0 +1,214 @@
+/* screen - astus-9 */
+
+.astus-9 {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 1020px;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.astus-9 .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 63px;
+  min-height: 191px;
+  width: 1440px;
+}
+
+.astus-9 .group-135 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  min-width: 1440px;
+}
+
+.astus-9 .group-138 {
+  align-items: center;
+  background-color: var(--daintree);
+  display: flex;
+  min-width: 1440px;
+}
+
+.astus-9 .rectangle-29 {
+  height: 104px;
+  object-fit: cover;
+  width: 138px;
+}
+
+.astus-9 .accueil {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 2.0px;
+  margin-left: 433px;
+  min-height: 24px;
+  min-width: 86px;
+  white-space: nowrap;
+}
+
+.astus-9 .recettes {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 2.0px;
+  margin-left: 44px;
+  min-height: 24px;
+  min-width: 102px;
+  white-space: nowrap;
+}
+
+.astus-9 .bibliothque {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 2.0px;
+  margin-left: 37px;
+  min-height: 24px;
+  min-width: 145px;
+  white-space: nowrap;
+}
+
+.astus-9 .astuces {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 2.0px;
+  margin-left: 34px;
+  min-height: 24px;
+  min-width: 94px;
+  white-space: nowrap;
+}
+
+.astus-9 .group-129 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  margin-left: 58px;
+  margin-top: 1.0px;
+  min-width: 99px;
+}
+
+.astus-9 .overlap-group {
+  background-color: var(--buff);
+  border: 1px solid;
+  border-color: var(--supernova);
+  border-radius: 10px;
+  height: 41px;
+  min-width: 97px;
+  padding: 11px 14px;
+}
+
+.astus-9 .sidentifier {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 18px;
+  white-space: nowrap;
+}
+
+.astus-9 .overlap-group1 {
+  background-color: var(--daintree);
+  border: 1px solid;
+  border-color: var(--buff);
+  border-radius: 10px;
+  height: 41px;
+  margin-left: 40px;
+  margin-top: 1.0px;
+  min-width: 97px;
+  padding: 10px 14px;
+}
+
+.astus-9 .sinscrire {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 18px;
+  white-space: nowrap;
+}
+
+.astus-9 .conserver-les-aliments {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 138px;
+  min-height: 24px;
+  white-space: nowrap;
+}
+
+.astus-9 .flex-row {
+  align-items: center;
+  display: flex;
+  gap: 96px;
+  height: 233px;
+  margin-right: 1.0px;
+  margin-top: 11px;
+  min-width: 1163px;
+}
+
+.astus-9 .la-lactofermentation {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 3.0px;
+  min-height: 216px;
+  width: 679px;
+}
+
+.astus-9 .flex-col-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 9px;
+  min-height: 233px;
+  width: 388px;
+}
+
+.astus-9 .rectangle-94 {
+  height: 200px;
+  object-fit: cover;
+  width: 388px;
+}
+
+.astus-9 .mes-petites-conserves-lacto-fermentes {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 24px;
+  white-space: nowrap;
+}
+
+.astus-9 .overlap-group2 {
+  background-color: var(--daintree);
+  gap: 986px;
+  height: 115px;
+  justify-content: flex-end;
+  margin-left: 1.0px;
+  margin-top: 474px;
+  min-width: 1441px;
+  padding: 0 22px;
+}
+
+.astus-9 .copyright {
+  align-self: center;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 1.0px;
+  min-height: 24px;
+  min-width: 268px;
+  white-space: nowrap;
+}
+
+.astus-9 .rectangle-35 {
+  height: 111px;
+  object-fit: cover;
+  width: 111px;
+}
+
+.astus-9 .overlap {
+  align-items: flex-start;
+  display: flex;
+}
